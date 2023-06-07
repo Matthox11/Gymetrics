@@ -1,0 +1,17 @@
+@startuml
+
+left to right direction
+
+actor user
+
+rectangle Gymetrics {
+    usecase ( créer une séance ) as create_seance
+    usecase ( ajouter exercice ) as add_exercice
+
+    user --> create_seance
+    user --> add_exercice
+
+    add_exercice .> create_seance :include
+}
+
+@enduml 
