@@ -1,0 +1,15 @@
+@startuml
+
+class Séance 
+{
+    - String name
+    + String get_name()
+}
+
+class Exercice
+{
+    - String name
+    + String get_name()
+}
+
+@enduml

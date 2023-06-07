@@ -1,0 +1,73 @@
+@startjson
+
+[
+    {
+        "name": "upper 1",
+        "exercices": 
+        [
+            {
+                "name": "tractions supination"
+            },
+
+            {
+                "name": "développé couché"
+            },
+
+            {
+                "name": "rowing machine"
+            },
+
+            {
+                "name": "élévations latérales"
+            },
+
+            {
+                "name": "oiseau à la poulie"
+            },
+
+            {
+                "name": "extensions triceps"
+            }
+        ]
+    },
+
+    {
+        "name": "upper 2",
+        "exercices": 
+        [
+            {
+                "name": "dips lestés"
+            },
+
+            {
+                "name": "tirage grand dorsal"
+            },
+
+            {
+                "name": "développé incliné"
+            },
+
+            {
+                "name": "écartés poulie"
+            },
+
+            {
+                "name": "face pull"
+            },
+
+            {
+                "name": "curl marteau"
+            }
+        ]
+    },
+
+    {
+        "name": "lower 1"
+    },
+
+    {
+        "name": "lower 2"
+    }
+]
+
+@endjson
